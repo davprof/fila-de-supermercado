@@ -25,6 +25,8 @@ Todas as mudanças de estado (sempre que algo acontece):
 - Deve ter uma mensagem nos `logs`.
 
 ## Entidade Relacionamento
+
+```
 +----------------+
 |   Produto      |
 +----------------+
@@ -60,6 +62,8 @@ Todas as mudanças de estado (sempre que algo acontece):
 | - fila         |
 | - tempoProcesso|
 +----------------+
+```
+
 
 ## Simulação de Clientes:
 
